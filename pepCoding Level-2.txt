@@ -1,0 +1,21 @@
+1.Conceptual building blocks  
+	Recursion and Backtracking
+	Bit Manipulation
+	Dynamic Programming
+2.Data Structures  
+	Graphs
+	Hashmap and Heaps
+	Trees
+	Linked List
+	Stacks
+	Trie
+3.Competitive  
+	Text Processing
+	Number Theory
+	Computational Geometry
+	Range Query
+4.Arrays and Strings  
+	Arrays and Strings
+	Searching and Sorting
+5.Miscellaneous  
+	JAVA for C++ Coders
